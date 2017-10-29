@@ -569,8 +569,8 @@ var environment = {
     apiAddress: 'https://myapp-fec96.firebaseio.com/',
     cartName: 'cart',
     paymentGatewayUrl: 'https://test.payu.in/_payment',
-    successUrl: 'http://localhost:1300/paymentstatus',
-    failedUrl: 'http://localhost:1300/paymentstatus',
+    successUrl: 'https://harshngapp.herokuapp.com/paymentstatus',
+    failedUrl: 'https://harshngapp.herokuapp.com/paymentstatus',
     key: 'gtKFFx',
     salt: 'eCwWELxi'
 };
